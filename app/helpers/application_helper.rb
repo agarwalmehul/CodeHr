@@ -105,6 +105,7 @@ module ApplicationHelper
 		end
 			
 		form.save!
-		return form
+		
+return form
 	end
 end
